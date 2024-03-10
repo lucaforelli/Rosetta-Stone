@@ -10,5 +10,5 @@ https://www.python.org/downloads/
 
 * Clone the repository to your local machine:
   * `git clone https://github.com/lucaforelli/Rosetta-Stone.git`
-* Open the Program on any desired text editor
+* Open the Program on any desired IDE.
 * Build and run the program. 
