@@ -7,7 +7,7 @@ def Solve():
     # Initialize an empty array to store the translated words
     newarr = []
     
-    # Check if any of the words in arr2 contain numbers
+    # Check if any of the words in arr2 contain numbersssss
     hasNumber = any(char.isdigit() for char in ''.join(arr2))
     
     # Iterate through each word in arr1
